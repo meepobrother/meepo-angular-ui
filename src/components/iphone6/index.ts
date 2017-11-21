@@ -1,1 +1,0 @@
-export * from './iphone6.module';

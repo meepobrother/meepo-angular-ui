@@ -1,4 +1,5 @@
-export {Iphone6Module} from './iphone6';
-import {Iphone6Module} from './iphone6';
+export * from './design.module';
+export * from './classes';
+export * from './components';
 
 export const version = "0.1.0";
