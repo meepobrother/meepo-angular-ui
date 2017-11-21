@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# NG-ZORRO
+# meepo-angular-ui
 [![Build Status](https://travis-ci.org/NG-ZORRO/ng-zorro-antd.svg?branch=master)](https://travis-ci.org/NG-ZORRO/ng-zorro-antd)
 [![npm package](https://img.shields.io/npm/v/ng-zorro-antd.svg)](https://www.npmjs.org/package/ng-zorro-antd)
 [![Gitter](https://badges.gitter.im/ng-zorro/ng-zorro-antd.svg)](https://gitter.im/ng-zorro/ng-zorro-antd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -32,13 +32,13 @@ An enterprise-class UI components based on Ant Design and Angular.
 ## Install
 
 ```bash
-$ npm install ng-zorro-antd --save
+$ npm install meepo-angular-ui --save
 ```
 
 ## Development
 
 ```bash
-$ git clone git@github.com:NG-ZORRO/ng-zorro-antd.git
+$ git clone https://github.com/meepobrother/meepo-angular-ui.git
 $ npm install
 $ npm start
 ```
