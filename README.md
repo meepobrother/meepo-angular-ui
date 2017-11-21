@@ -5,9 +5,6 @@
 </p>
 
 # meepo-angular-ui
-[![Build Status](https://travis-ci.org/NG-ZORRO/ng-zorro-antd.svg?branch=master)](https://travis-ci.org/NG-ZORRO/ng-zorro-antd)
-[![npm package](https://img.shields.io/npm/v/ng-zorro-antd.svg)](https://www.npmjs.org/package/ng-zorro-antd)
-[![Gitter](https://badges.gitter.im/ng-zorro/ng-zorro-antd.svg)](https://gitter.im/ng-zorro/ng-zorro-antd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 An enterprise-class UI components based on Ant Design and Angular.
 
@@ -16,9 +13,7 @@ An enterprise-class UI components based on Ant Design and Angular.
 
 ## Features
 
-- An enterprise-class UI design language for web applications.
-- A set of high-quality Angular components out of the box.
-- Written in TypeScript with complete define types.
+- meepo angular ui framework
 
 ## Environment Support
 
@@ -52,8 +47,3 @@ $ npm start
 - [TypeScript](https://www.typescriptlang.org/)
 - [RxJS 5](https://github.com/ReactiveX/rxjs)
 
-
-## Contributing
-
-We welcome all contributions. Please read our [CONTRIBUTING.md](https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/CONTRIBUTING.md) first.
-You can submit any ideas as [pull request](https://github.com/NG-ZORRO/ng-zorro-antd/pulls)，or as [GitHub issues](https://github.com/NG-ZORRO/ng-zorro-antd/issues)。
