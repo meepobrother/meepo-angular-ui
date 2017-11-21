@@ -46,7 +46,7 @@ $ npm start
 
 ## Links
 
-- [Home page](http://ng.ant.design)
+- [Home page](http://ui.meepo.com.cn)
 - [Angular](https://angular.io/)
 - [Angular CLI](https://cli.angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
