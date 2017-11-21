@@ -8,9 +8,6 @@
 
 Meepo UI components based on Ant Design and Angular.
 
-[中文 README](README-zh_CN.md)
-
-
 ## Features
 
 - meepo angular ui framework
